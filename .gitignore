@@ -30,8 +30,8 @@
 .pub-cache/
 .pub/
 /build/
-/IgnoradaPeloGit/
-!/IgnoradaPeloGit/arquivo02.dart
+#/IgnoradaPeloGit/
+/IgnoradaPeloGit/arquivo02.dart
 
 # Web related
 lib/generated_plugin_registrant.dart
